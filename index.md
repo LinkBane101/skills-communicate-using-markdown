@@ -6,3 +6,6 @@ This world shall know pain!
 ```
 System.out.println("Almighty, Push");
 ```
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
